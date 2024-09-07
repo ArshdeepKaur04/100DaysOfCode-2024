@@ -1,9 +1,9 @@
-# Questions for Day 76 – (05/09/2024)
+# Questions for Day 78 – (07/09/2024)
 # DSA Practice: Solving DSA Problems
 
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+Q1. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
 
-Q2. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
+Q2. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
