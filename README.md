@@ -4,6 +4,6 @@
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Strongly Connected Components (Kosaraju's Algo)](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
+Q1. [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/)
 
-Q2. [Mother Vertex](https://www.geeksforgeeks.org/problems/mother-vertex/1)
+Q2. [01 Matrix](https://leetcode.com/problems/01-matrix/description/)
